@@ -6,8 +6,8 @@ import unittest
 import StringIO, sys
 import sets
 # more imports
-import deep.modules.code_generator.DataProvider as DataProvider
-import deep.modules.code_generator.DataResource as DataResource
+import codegen.DataProvider as DataProvider
+import codegen.DataResource as DataResource
 
 
 # test fixture

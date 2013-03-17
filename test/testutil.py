@@ -6,7 +6,7 @@ import unittest
 import StringIO,sys
 
 # more imports
-import deep.modules.code_generator.util as util
+import codegen.util as util
 
 # test fixture
 class Testutil(unittest.TestCase):

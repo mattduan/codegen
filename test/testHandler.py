@@ -6,7 +6,7 @@ import unittest
 import StringIO,sys
 
 # more imports
-import deep.modules.code_generator.Handler as Handler
+import codegen.Handler as Handler
 
 
 # test fixture

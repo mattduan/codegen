@@ -5,7 +5,7 @@ PyUnit TestCase for DataResource.
 import unittest
 import sets
 # more imports
-import deep.modules.code_generator.DataResource as DataResource
+import codegen.DataResource as DataResource
 
 
 # test fixture

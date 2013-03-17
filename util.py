@@ -14,7 +14,7 @@ $Id: util.py 1652 2007-04-25 07:57:29Z duan $
 """
 
 __version__='$Revision: 1652 $'[11:-2]
-__author__ = "Duan Guoqiang (mattgduan@domainect.cn)"
+__author__ = "Duan Guoqiang (mattgduan@gmail.com)"
 
 
 import types

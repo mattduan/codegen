@@ -7,8 +7,8 @@ import sets
 import StringIO,sys
 
 # more imports
-import deep.modules.code_generator.Template as Template
-import deep.modules.code_generator.DataObject as DataObject
+import codegen.Template as Template
+import codegen.DataObject as DataObject
 
 # test fixture
 class TestTemplate(unittest.TestCase):

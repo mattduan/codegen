@@ -11,7 +11,7 @@ $Id: Template.py 11 2005-12-24 09:13:33Z duan $
 """
 
 __version__='$Revision: 11 $'[11:-2]
-__author__ = "Duan Guoqiang (mattgduan@domainect.cn)"
+__author__ = "Duan Guoqiang (mattgduan@gmail.com)"
 
 
 import string

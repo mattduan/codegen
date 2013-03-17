@@ -7,7 +7,7 @@ import sets
 import StringIO,sys
 
 # more imports
-import deep.modules.code_generator.Generator as Generator
+import codegen.Generator as Generator
 
 
 # test fixture

@@ -6,7 +6,7 @@ import unittest
 import sets
 
 # more imports
-import deep.modules.code_generator.DataObject as DataObject
+import codegen.DataObject as DataObject
 
 
 # test fixture
